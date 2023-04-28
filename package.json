@@ -1,0 +1,19 @@
+{
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "string": "nodemon ./js/03-string.js",
+    "number": "nodemon ./js/02-number.js",
+    "console": "nodemon ./js/01-console.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
