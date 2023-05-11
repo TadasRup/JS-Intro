@@ -4,6 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "arrow":  "nodemon ./js/13-arrow.js",
+    "isrinktiraides": "nodemon ./mano-uzdaviniai/isrinktiraides.js",
+    "duveiksmai": "nodemon ./mano-uzdaviniai/5-penktauzduotis.js",
+    "kintamieji": "nodemon ./mano-uzdaviniai/1-kintamieji.js",
+    "biggest": "nodemon ./uzd/4-biggest.js",
+    "number-3": "nodemon ./uzd/3-number.js",
     "multiply": "nodemon ./uzd/2-multiply.js",
     "empty": "nodemon ./uzd/1-empty.js",
     "for":  "nodemon ./js/12-for.js",
