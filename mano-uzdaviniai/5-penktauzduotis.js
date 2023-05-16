@@ -25,3 +25,6 @@ console.log(filterLetters('abcdefghijkl', 3), '->', 'cfil');
 console.log(filterLetters('abc', 0), '->', 'Antrasis kintamasis turi būti didesnis už nulį.')
 console.log(filterLetters('abc', 4), 'Antrasis kintamasis turi būti ne didesnis už pateikto teksto ilgį.')
 console.log(filterLetters(1561, 2), 'Pirmasis kintamasis yra netinkamo tipo.')
+
+
+console.cleear();
